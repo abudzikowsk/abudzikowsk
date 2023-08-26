@@ -1,3 +1,2 @@
-### My name is Aleksandra, I am an aspiring developer with a passion for creating innovative applications. 
-### Currently, I am pursuing a degree in Computer Science, driven by my passion for technology and my interest in creating web applications using C#. 
-### I possess a wealth of skills and experience that uniquely combine project management expertise with programming skills.
+## I'm Aleksandra, an aspiring developer ignited by a passion for forging innovative applications. 
+### My current journey involves pursuing a degree in Computer Science, ignited by my fascination with technology and my knack for developing web applications using C#.
