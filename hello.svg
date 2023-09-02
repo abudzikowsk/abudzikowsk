@@ -23,7 +23,7 @@
           flex-direction: column;
           justify-content: center;
           align-items: center;
-          color: black;
+          color: #81a684;
           text-align: center;
 
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -44,6 +44,7 @@
         .smaller-text {
           margin-left: 10px;
           margin-right: 10px;
+          color: #57886c;
         }
       </style>
 
