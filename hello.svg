@@ -39,11 +39,16 @@
             animation: none;
           }
         }
+
+        .smaller-text {
+          margin-left: 10px;
+          margin-right: 10px;
+        }
       </style>
 
       <div class="container">
         <h1>Hi there, my name is Aleksandra <div class="hi">👋🏻</div></h1>
-        <h2>During my free time, I channel my energy into developing apps, a selection of which can be explored in my repositories. class="hi" </h2>
+        <h2 class="smaller-text">During my free time, I channel my energy into developing apps, a selection of which can be explored in my repositories.</h2>
       </div>
     </div>
   </foreignObject>
