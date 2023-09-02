@@ -34,7 +34,9 @@
           display: inline-block;
           transform-origin: 70% 70%;
           font-size: 50px;
-          line-height: 40px;
+          line-height: 50px;
+          align-items: center;
+
         }
 
         @media (prefers-reduced-motion) {
