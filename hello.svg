@@ -32,7 +32,9 @@
         .hi {
           animation: hi 1.5s linear -0.5s infinite;
           display: inline-block;
-          transform-origin: 125% 125%;
+          transform-origin: 70% 70%;
+          width: 125%;
+          height: 125%;
         }
 
         @media (prefers-reduced-motion) {
