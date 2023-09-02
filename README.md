@@ -1,2 +1,3 @@
-## <font color="pink">I'm Aleksandra, an aspiring developer ignited by a passion for creating innovative applications.</font>
-### <font color="grey"> My current journey involves pursuing a degree in Computer Science, ignited by my fascination with technology and my passion for developing web applications using C#. During my free time, I channel my energy into developing apps, a selection of which can be explored in my repositories.</font>
+<div style="width: 100%;">
+  <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
+</div>
