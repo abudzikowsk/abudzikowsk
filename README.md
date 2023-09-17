@@ -10,9 +10,9 @@
 
 - 🇵🇱 I'm based in the beautiful city of **Gdynia, Poland**, which is nestled by the sea and known for its modernistic charm.
 
-### My skills include 👩🏻‍💻
+### <h1 align="center"> My skills include 👩🏻‍💻
 
-<p>
+<p align="center">
   <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img alt="dotnet" src="https://img.shields.io/badge/.net%20-%235C2D91.svg?&style=for-the-badge&logoColor=white"/>
   <img alt="efcore" src="https://img.shields.io/badge/entity%20framework%20core-%235C2D91.svg?&style=for-the-badge&logoColor=white"/>
