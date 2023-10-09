@@ -1,6 +1,6 @@
 ### <h1 align="center"> Hi! 👋🏻 I'm Aleksandra, a driven and aspiring developer fueled by a profound passion for crafting cutting-edge applications. 🚀💻
 
-- 🎓 Currently, I'm immersed in the world of **Computer Science at National Louis University**, where I'm actively expanding my knowledge base.
+- 🎓 Currently, I'm immersed in the world of **Computer Science at WSB-NLU**, where I'm actively expanding my knowledge base.
 
 - 🌱 My journey is marked by an unwavering commitment to honing my programming prowess through the creation of **dynamic web applications**.
 
