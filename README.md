@@ -1,4 +1,4 @@
-### <h1 align="center"> Hi! 👋🏻 I'm Aleksandra, a driven and aspiring developer fueled by a profound passion for crafting cutting-edge applications. 🚀💻
+### <h1 align="center"> Hi! 👋🏻 I'm Aleksandra, a driven and aspiring developer fueled by a passion for creating cutting-edge applications. 🚀💻
 
 - 🎓 Currently, I'm immersed in the world of **Computer Science at WSB-NLU**, where I'm actively expanding my knowledge base.
 
