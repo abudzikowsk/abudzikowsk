@@ -8,8 +8,6 @@
 
 - 👩🏻‍🔧 My professional path has been diverse, encompassing roles as a meticulous **Tester**, a visionary **Product Owner**, and my present position as a **FinOps Analyst**.
 
-- 🇵🇱 I'm based in the beautiful city of **Gdynia, Poland**, which is nestled by the sea and known for its modernistic charm.
-
 ### <h1 align="center"> My skills include 👩🏻‍💻
 
 <p align="center">
