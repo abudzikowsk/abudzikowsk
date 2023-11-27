@@ -2,11 +2,11 @@
 
 - 🎓 Currently, I'm immersed in the world of **Computer Science at WSB-NLU**, where I'm actively expanding my knowledge base.
 
-- 🌱 My journey is marked by an unwavering commitment to honing my programming prowess through the creation of **dynamic web applications**.
+- 🌱 My journey is marked by an unwavering commitment to honing my programming skills through the creation of **dynamic web applications**.
 
-- 🎯 My primary goal? To secure my **first professional opportunity** in the world of .NET technology, setting the stage for an exciting career ahead.
+- 🎯 My primary goal? To secure my **first professional opportunity** in programming world, setting the stage for an exciting career ahead.
 
-- 👩🏻‍🔧 My professional path has been diverse, encompassing roles as a meticulous **Tester**, a visionary **Product Owner**, and my present position as a **FinOps Analyst**.
+- 👩🏻‍🔧 My professional path has been diverse, including roles as a meticulous **Tester**, a visionary **Product Owner**, and my present position as a **FinOps Analyst**.
 
 ### <h1 align="center"> My skills include 👩🏻‍💻
 
