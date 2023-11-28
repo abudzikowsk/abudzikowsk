@@ -1,5 +1,5 @@
 ### <h1 align="center"> Hi! 👋🏻 I'm Aleksandra
-
+<!--
 - 🎓 Currently, I'm immersed in the world of **Computer Science at WSB-NLU**, where I'm actively expanding my knowledge base.
 
 - 🌱 My journey is marked by an unwavering commitment to honing my programming skills through the creation of **dynamic web applications**.
@@ -19,3 +19,4 @@
   <img alt="css" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+-->
