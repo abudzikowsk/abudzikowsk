@@ -7,7 +7,7 @@
 - 🎯 My primary goal? To secure my **first professional opportunity** in programming world, setting the stage for an exciting career ahead.
 
 - 👩🏻‍🔧 My professional path has been diverse, including roles as a meticulous **Tester**, a visionary **Product Owner**, and my present position as a **FinOps Analyst**.
-
+-->
 ### <h1 align="center"> My skills include 👩🏻‍💻
 
 <p align="center">
@@ -19,4 +19,4 @@
   <img alt="css" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
--->
+
