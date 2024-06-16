@@ -9,7 +9,7 @@
 
 - 👩🏻‍🔧 My professional path has been diverse, including roles as a meticulous **Tester**, a visionary **Product Owner**, and my present position as a **FinOps Analyst**.
 -->
-### <h1 align="center">Hi! I'm Aleksandra 👋🏻 My skills include 👩🏻‍💻
+### <h1 align="center">Hi! I'm Aleksandra 👋🏻 My skills include:
 
 <p align="center">
   <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
