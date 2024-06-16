@@ -10,7 +10,7 @@
 - 👩🏻‍🔧 My professional path has been diverse, including roles as a meticulous **Tester**, a visionary **Product Owner**, and my present position as a **FinOps Analyst**.
 -->
 ### <h1 align="center">Hi! I'm Aleksandra 👋🏻 
-### <h1 align="center">I am most proud of: https://bursztynorama.pl & https://sztukanawidoku.azurewebsites.net
+### <h1 align="center">I am particularly proud of https://bursztynorama.pl & https://sztukanawidoku.azurewebsites.net
 ### <h1 align="center">My skills include:
 
 <p align="center">
